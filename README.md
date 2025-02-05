@@ -38,7 +38,6 @@ The function creates more than 200 records in the `users` collection of MongoDB.
 
 - **Insert Records**: All the generated records, including duplicates, are inserted into the `users` collection in MongoDB using the `insertMany()` method.
 
-This function is useful for populating the database with a significant amount of sample data, including realistic scenarios with duplicates, to test the system’s handling of large datasets and data consistency.
 
 ```javascript
 const cities = ["New York", "Los Angeles", "Chicago", "Houston", "San Francisco"];

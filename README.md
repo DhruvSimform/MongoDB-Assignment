@@ -2,6 +2,9 @@
 
 This repository demonstrates various MongoDB operations such as batch creation, batch update, indexing, and finding duplicates using aggregation.
 
+## 📄 Documentation
+To view  Output, refer to the attached [mongoDb-task.odt](mongoDb-task.odt) file. 
+
 ## Setup
 
 1. **Connect to MongoDB Cluster**  
